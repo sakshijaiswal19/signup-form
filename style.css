@@ -1,6 +1,8 @@
 .wrapper{
     padding: 0 0 100px;
     background-image: url("./images/bg.png");
+    background-color: #C8E3D4;
+
     background-position:bottom center;
     background-repeat: no-repeat;
     background-size: contain;
